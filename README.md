@@ -1,4 +1,4 @@
-# faceitdemodownloader
+# Faceit Demo Downloader
 Simple faceit demo downloader written by fredmatix.
 Can also serve as a service on Linux
 
