@@ -1,6 +1,7 @@
 # faceitdemodownloader
 Simple faceit demo downloader written by fredmatix.
-It is intended to be run with "npm run start" and can also serve as a service on Linux
+It is intended to be run with node. you can run it "npm run start" after you copied the package.json
+It can also serve as a service on Linux
 
 faceitAPIKey - get it from https://developers.faceit.com/docs/auth/api-keys 
 
