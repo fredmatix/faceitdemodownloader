@@ -2,8 +2,9 @@
 Simple faceit demo downloader written by fredmatix.
 Can also serve as a service on Linux
 
-It is intended to be run with node. you can run it with "npm run start" after you copied the package.json and installed its dependencies listed in there!
+It is intended to be run with node on ubuntu. you can run it with "npm run start" after you copied the package.json and installed its dependencies listed in there!
 Example: (npm install axios)
+It uses curl, wget, gzip and rsync. make sure you have them installed!
 
 A faceit API key is needed - get it from https://developers.faceit.com/docs/auth/api-keys 
 
