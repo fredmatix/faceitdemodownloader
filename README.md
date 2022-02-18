@@ -1,5 +1,5 @@
 # Faceit Demo Downloader
-Simple faceit demo downloader written by fredmatix.
+Simple faceit demo downloader.
 Can also serve as a service on Linux
 
 It is intended to be run with node on ubuntu. you can run it with "npm run start" after you copied the package.json and installed its dependencies listed in there!
