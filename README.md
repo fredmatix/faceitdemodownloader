@@ -1,5 +1,5 @@
-# Faceit Demo Downloader
-Simple faceit demo downloader.
+# CS:GO Faceit Demo Downloader
+Simple faceit demo downloader for your CS:GO stats tracking experience or analysis.
 Can also serve as a service on Linux
 
 It is intended to be run with node on ubuntu. you can run it with "npm run start" after you copied the package.json and installed its dependencies listed in there!
